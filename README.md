@@ -1,1 +1,1 @@
-# Data_Visualization_Lab02-Netflix
+# Data_Visualization - Lab02-Netflix - HCMUS
